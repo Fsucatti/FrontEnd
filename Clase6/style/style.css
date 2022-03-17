@@ -1,0 +1,12 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+ }
+
+h1 {
+    text-align: center;
+} 
+
+#list-bold {
+    font-weight: bold;
+} 
