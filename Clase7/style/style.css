@@ -1,0 +1,67 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+ }
+
+h1{
+    font-size: 35px;
+    text-align: center;
+    height: 60px;
+    left: 0px;
+    top: 188px;
+    line-height: 170%;
+    margin-top: 0%;
+}
+
+br{
+    margin: 20px;
+}
+
+h2{
+    font-size: 20px;
+    
+}
+
+.titulos{
+    color:#005677;
+    background-color: #c4c4c4;
+}    
+
+#list-bold {
+    font-weight: bold;
+}
+
+#list-italic{
+    font-weight: bold;
+    font-style: italic;
+}
+
+header{
+    margin: 0;    
+    
+}
+
+footer{
+    text-align: center;
+    color: white;
+    background-color: #005677;
+    font-weight: bold;
+    height: 30px;
+    
+
+}
+
+.batman-class{
+    background: #E6E6E6;
+    text-align: center;
+    margin-bottom: 0%;
+    }
+
+.footer-img{
+    height: 20px;
+    width: 20px;
+    display: inline;
+
+}    
+
+
